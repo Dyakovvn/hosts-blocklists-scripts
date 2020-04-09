@@ -15,6 +15,7 @@
 # for test
 am15.net
 advmt.org
+skyeng.ru
 
 ###
 # From top1000000 test

@@ -12,6 +12,11 @@
 #
 # Empty lines and lines starting with a '#' are ignored.
 ############################################################################################################
+# for test
+am15.net
+advmt.org
+
+###
 # From top1000000 test
  test-iq.org
  puzz.com

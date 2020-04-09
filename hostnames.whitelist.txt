@@ -15,6 +15,7 @@
 # for test
 am15.net
 advmt.org
+advmaker.net
 skyeng.ru
 
 ###
